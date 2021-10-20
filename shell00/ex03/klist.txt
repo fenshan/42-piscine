@@ -1,0 +1,5 @@
+Credentials cache: API:FE349E14-D32E-4040-B7FC-74B8E09BED25
+        Principal: fnicolas@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 20 18:45:32 2021  Sep 21 04:45:21 2021  krbtgt/42MADRID.COM@42MADRID.COM
