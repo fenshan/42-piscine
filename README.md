@@ -1,2 +1,2 @@
 # 42madrid-piscine
-Mis soluciones a los proyectos de la piscina de 42madrid
+My solutions to 42madrid piscine projects (I only uploaded the OK-graded projects)
