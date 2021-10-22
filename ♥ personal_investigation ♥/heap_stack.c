@@ -1,7 +1,7 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main2.c                                            :+:      :+:    :+:   */
+/*   heap_stack.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: fnicolas <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
@@ -12,6 +12,11 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+
+/* To compare the memory addresses of stack vs heap allocated variables
+/* - Stack: high addresses
+/* - Heap: low addresses
+*/
 void foo(int valor) {
   unsigned char c;
   unsigned char *ptr = malloc(1);
