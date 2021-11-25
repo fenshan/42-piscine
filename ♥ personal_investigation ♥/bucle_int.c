@@ -7,6 +7,6 @@ int main(void)
 	int i = 0;
 	while (i < 2147483647)
 		++i;
-	write(1, "finished\n", 9); //shout=out to my bro jcobos-d! without him, an eol would still be needed 
+	write(1, "finished\n", 9); //shout-out to my bro jcobos-d! without him, an eol would still be needed 
 	return (0);
 }
